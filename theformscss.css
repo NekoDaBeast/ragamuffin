@@ -1,0 +1,39 @@
+* {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+#webpage {
+    background: rgb(0,155,255);
+    background: linear-gradient(27deg, rgba(0,155,255,1) 22%, rgba(0,255,244,1) 88%);
+
+    height: 1400px;
+    width: 100%;
+}
+
+.webpage__title-heading {
+    width: 100%;
+    text-align: center;
+}
+
+.notlabel {
+    text-decoration: none !important;
+    font-size: 1em !important;
+}
+
+.form-division {
+    margin: 7em 2em 7em 2em;
+    border: solid black 5px;
+    padding: 1em;
+}
+
+.form-subdivision {
+    margin: 1em;
+    border: solid lime 2px;
+}
+
+label {
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+
+.webpage__formsframe { border: silver solid 2px; }
